@@ -1,0 +1,6 @@
+data filter=lfs diff=lfs merge=lfs -text
+frontend filter=lfs diff=lfs merge=lfs -text
+자율프로젝트 filter=lfs diff=lfs merge=lfs -text
+C104.assets filter=lfs diff=lfs merge=lfs -text
+C104.md filter=lfs diff=lfs merge=lfs -text
+backend filter=lfs diff=lfs merge=lfs -text
