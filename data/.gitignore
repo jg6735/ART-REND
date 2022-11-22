@@ -3,7 +3,7 @@
 
 
 recommend_art/photo/*
-
+recommend_art/checkpoint_art/*
 
 # recommend_art/checkpoint_art/*.ckpt
 ### Django ###
